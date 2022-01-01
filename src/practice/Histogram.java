@@ -1,9 +1,11 @@
 package practice;
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class Histogram {
     public static void main(String[] args) {
+
         Scanner scnr = new Scanner(System.in);
         int numAsterisk;  // Number of asterisks to print
         int i;            // Loop counter
